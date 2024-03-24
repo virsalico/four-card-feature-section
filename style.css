@@ -29,14 +29,12 @@ h1 {
     font-weight: 200;
     font-size: 2rem;
     color: hsl(234, 12%, 34%);
-}
-h1:nth-child(2) {
-    font-weight: 600;
+    
 }
 
-h1:nth-child(2) {
-    font-weight: bold;
-}
+
+
+
 
 p {
     margin-left: -5;
